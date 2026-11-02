@@ -35,18 +35,31 @@ The model is built using a Sequential API featuring multiple convolutional and p
 
 ---
 
+## 📂 Dataset Availability
+Due to GitHub's file size and file count limitations, the raw image dataset (`yes` / `no` MRI scans) is not directly hosted in this repository. 
+
+If you would like to access the dataset for research, testing, or replication purposes, please feel free to reach out to me via email or LinkedIn.
+
+---
+
 ## How to Run the Code
+
 1. Clone the repository:
    ```bash
    git clone [https://github.com/falcon326/Brain-Tumor-Detection-CNN.git](https://github.com/falcon326/Brain-Tumor-Detection-CNN.git)
 
 2. Install the required dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Open the Jupyter Notebook (.ipynb) in Google Colab or Jupyter Lab, connect your Google Drive dataset path, and run the cells sequentially.
+
+---
 
 👤 Author
 Developed by Vildan Yılmazer
 
 Electrical-Electronics Engineering Graduate | AI & Software Enthusiast
+
+* **LinkedIn:** www.linkedin.com/in/vildan-yilmazer-263b52306
+* **Email:** vildan.yilmazer@hotmail.com
